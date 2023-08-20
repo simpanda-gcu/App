@@ -1,2 +1,2 @@
-# fe-app
+# App
 ## hello, world!
